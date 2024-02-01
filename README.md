@@ -1,4 +1,4 @@
-# rlagusals1102
+# 김현민
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagusals1102&show_icons=true&theme=dark)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlagusals1102&langs_count=10&layout=compact&theme=dark)](https://github.com/rlagusals1102)﻿
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagusals1102)](https://solved.ac/rlagusals1102/)
